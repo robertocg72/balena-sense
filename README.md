@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/balena-io-projects/balena-sense/master/images/logo.png)
 
-**Starter project that lets anyone start monitoring envrionmental sensor data from a beautiful, remotely accessible dashboard.**
+**Starter project that lets anyone start monitoring environmental sensor data from a beautiful, remotely accessible dashboard.**
 
 ## Highlights
 
